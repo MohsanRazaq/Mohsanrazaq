@@ -1,6 +1,6 @@
 👋 **Hi, I'm Mohsan**
 
-Computer Cyber Security (4th Semester) passionate about **Cybersecurity and Cloud Security**.
+Cyber Security Student  (4th Semester) passionate about **Cybersecurity and Cloud Security**.
 
 🔭 **Currently Learning:** Python, Computer Networking, Linux Security  
 💻 **Environment:** 🐧 Linux • 🦜 Parrot OS  
