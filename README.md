@@ -1,4 +1,4 @@
-👋 **Hi, I'm Mohsan**
+👋 **Hi, I'm Mohsan Razaq**
 
 Cyber Security Student  (4th Semester) passionate about **Cybersecurity and Cloud Security**.
 
