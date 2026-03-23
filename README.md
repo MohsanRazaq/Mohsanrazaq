@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Mohsan Razaq 🇵🇰
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=wave&color=0891b2&height=200&section=header&text=Cloud%20Security%20&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Pentesting%20|%20Automation%20|%20Python&descAlignY=51&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/render?type=wave&color=0891b2&height=200&section=header&text=Cloud%20Security&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Pentesting%20%7C%20Automation%20%7C%20Python&descAlignY=51&descAlign=50" />
 </p>
 
 ---
