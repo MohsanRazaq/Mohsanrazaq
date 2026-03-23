@@ -7,7 +7,7 @@
 
 ### 🛡️ About Me
 * 🌍 Based in **Lahore, Pakistan**
-* 🎓 4th Semester Computer Science Student
+* 🎓 4th Semester cyber Security Student
 * 🧠 Currently mastering **Python for Security Automation**
 * ☁️ Aspiring **Cloud Penetration Tester**
 * 💬 People often call me a threat to AI... *don't tell anyone.* 😉
