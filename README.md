@@ -1,69 +1,67 @@
-# Hi there 👋, I'm Mohsan Razaq 🇵🇰
+# ⚡ System Status: Mohsan Razaq (Online) 🇵🇰
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=wave&color=0891b2&height=200&section=header&text=Cloud%20Security&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Pentesting%20%7C%20Automation%20%7C%20Python&descAlignY=51&descAlign=50" />
-</p>
-
----
-
-### 🛡️ About Me
-* 🌍 Based in **Lahore, Pakistan**
-* 🎓 4th Semester cyber Security Student
-* 🧠 Currently mastering **Python for Security Automation**
-* ☁️ Aspiring **Cloud Penetration Tester**
-* 💬 People often call me a threat to AI... *don't tell anyone.* 😉
-
----
-
-### 🛠️ My Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Parrot_OS-3EBBFF?style=for-the-badge&logo=parrot-os&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats & Consistency
-<p align="center">
-  <a href="https://github.com/MohsanRazaq">
-    <img src="https://github-readme-stats.vercel.app/api?username=MohsanRazaq&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Mohsan's Stats" />
-  </a>
-  <a href="https://github.com/MohsanRazaq">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohsanRazaq&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Mohsan's Streak" />
-  </a>
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=0891b2&height=200&section=header&text=CL0UD%20SEC%200PS&fontSize=70&animation=twinkling&fontAlignY=38&desc=PENTESTING%20|%20AUTOMATION%20|%20PYTHON&descAlignY=51&descAlign=50" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohsanRazaq&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact" alt="Top Languages" />
+<img src="https://komarev.com/ghpvc/?username=MohsanRazaq&label=PROFILE%20VIEWS&color=0891b2&style=flat" alt="Views" />
 </p>
 
 ---
 
-### 🐍 Contribution Activity
+### 🕵️‍♂️ Intelligence Briefing
+- 🔭 **Current Focus:** Building an automated Python-based Vulnerability Scanner.
+- 🌱 **Learning Path:** Advanced Cloud Penetration Testing (AWS/GCP).
+- 💻 **OS of Choice:** `Parrot OS` (Security Edition) & `Kali`.
+- 💬 **Ask me about:** Why "Human Error" is the biggest vulnerability in 2026.
+
+---
+
+### 🛠️ Arsenal (Tech Stack)
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | `Python` `C++` `Bash` |
+| **Security** | `Nmap` `Metasploit` `Burp Suite` `Wireshark` |
+| **Cloud** | `Google Cloud` `Docker` `GitHub Actions` |
+| **Environments** | `Parrot OS` `Kali Linux` `Ubuntu` `VS Code` |
+
+---
+
+### 📊 Tactical Data (Live Stats)
+
 <p align="center">
-  <img src="https://github.com/MohsanRazaq/MohsanRazaq/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohsanRazaq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohsanRazaq&theme=tokyonight&hide_border=true&layout=compact" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohsanRazaq&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 ---
 
-### 📫 Connect with me
-<p align="left">
-  <a href="mailto:mohsansec@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohsan-razaq-0502623a3">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/MohsanRazaq">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+### 🐍 Contribution Activity (The Snake)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MohsanRazaq/MohsanRazaq/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohsanRazaq&theme=tokyonight&area=true&hide_border=true" width="100%" />
+</p>
+
+---
+
+### 📫 Secure Communication
+<p align="center">
+<a href="mailto:mohsansec@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mohsan-razaq-0502623a3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <div align="center">
-  <sub>Built with ❤️ and Python logic.</sub>
+  <sub>"To secure a system, you must first understand the logic that builds it."</sub>
 </div>
