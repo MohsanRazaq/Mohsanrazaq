@@ -1,11 +1,11 @@
-# ⚡ System Status: Mohsan Razaq (Online) 🇵🇰
+# <align="center"> ⚡  Mohsan Razaq (Online) 🇵🇰 </align>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=0891b2&height=200&section=header&text=CL0UD%20SEC%200PS&fontSize=70&animation=twinkling&fontAlignY=38&desc=PENTESTING%20|%20AUTOMATION%20|%20PYTHON&descAlignY=51&descAlign=50" />
+  <img src="https://raw.githubusercontent.com/MohsanRazaq/MohsanRazaq/main/header.png" onerror="this.src='https://capsule-render.vercel.app/render?type=rect&color=0891b2&height=150&section=header&text=CLOUD%20SECURITY%20OPERATIONS&fontSize=50&animation=twinkling&fontAlignY=50'" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=MohsanRazaq&label=PROFILE%20VIEWS&color=0891b2&style=flat" alt="Views" />
+<img src="https://komarev.com/ghpvc/?username=MohsanRazaq&label=PROFILE%20VIEWS&color=0891b2&style=flat-square" alt="Views" />
 </p>
 
 ---
