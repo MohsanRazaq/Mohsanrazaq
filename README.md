@@ -1,13 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=0891b2&height=120&section=header&text=CLOUD%20SECURITY%20OPERATIONS&fontSize=50&animation=twinkling&fontAlignY=50&v=123" />
+  <img src="header.png" width="100%" alt="Mohsan Razaq Cloud Security Header" />
 </p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=MohsanRazaq&label=PROFILE%20VIEWS&color=0891b2&style=flat-square" alt="Views" />
 </p>
 
-# <align="center"> ⚡ System Status: Mohsan Razaq (Online) 🇵🇰 </align>
-
+# <div align="center"> ⚡ System Status: Mohsan Razaq (Online) 🇵🇰 </div>
 ---
 
 ### 🕵️‍♂️ Intelligence Briefing
