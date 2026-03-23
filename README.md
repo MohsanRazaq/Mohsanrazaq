@@ -11,7 +11,7 @@
 ---
 
 ### 🕵️‍♂️ Intelligence Briefing
-- 🔭 **Current Focus:** Building an automated Python-based Vulnerability Scanner.
+- 🔭 **Current Focus:** Learning python Automation along with Networking.
 - 🌱 **Learning Path:** Advanced Cloud Penetration Testing (AWS/GCP).
 - 💻 **OS of Choice:** `Parrot OS` (Security Edition) & `Kali`.
 - 💬 **Ask me about:** Why "Human Error" is the biggest vulnerability in 2026.
