@@ -9,7 +9,7 @@
 ---
 
 ### 🧑‍💻 Technical Profile
-* **Focus:** 4th Sem CS Student specializing in **Cloud Pentesting** & **Security Automation**.
+* **Focus:** 4th Sem Cyber Security Student specializing in **Cloud Pentesting** & **Security Automation**.
 * **Core Arsenal:** Python, Linux (Parrot/Kali), Networking, and Cloud Architecture.
 * **Current Sprint:** Developing automated reconnaissance tools and mastering GCP Security.
 
