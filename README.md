@@ -1,66 +1,43 @@
-<p align="center">
-  <img src="header.png" width="100%" alt="Mohsan Razaq Cloud Security Header" />
+# 🛡️ Mohsan Razaq | Cloud Security & Automation
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohsan-razaq-0502623a3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mohsansec@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Location-Lahore,%20PK-0891b2?style=flat-square" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=MohsanRazaq&label=PROFILE%20VIEWS&color=0891b2&style=flat-square" alt="Views" />
-</p>
-
-# <div align="center"> ⚡ System Status: Mohsan Razaq (Online) 🇵🇰 </div>
 ---
 
-### 🕵️‍♂️ Intelligence Briefing
-- 🔭 **Current Focus:** Learning python Automation along with Networking.
-- 🌱 **Learning Path:** Advanced Cloud Penetration Testing (AWS/GCP).
-- 💻 **OS of Choice:** `Parrot OS` (Security Edition) & `Kali`.
-- 💬 **Ask me about:** Why "Human Error" is the biggest vulnerability in 2026.
+### 🧑‍💻 Technical Profile
+* **Focus:** 4th Sem CS Student specializing in **Cloud Pentesting** & **Security Automation**.
+* **Core Arsenal:** Python, Linux (Parrot/Kali), Networking, and Cloud Architecture.
+* **Current Sprint:** Developing automated reconnaissance tools and mastering GCP Security.
 
 ---
 
 ### 🛠️ Arsenal (Tech Stack)
-
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | `Python` `C++` `Bash` |
-| **Security** | `Nmap` `Metasploit` `Burp Suite` `Wireshark` |
-| **Cloud** | `Google Cloud` `Docker` `GitHub Actions` |
-| **Environments** | `Parrot OS` `Kali Linux` `Ubuntu` `VS Code` |
+`Python` • `Bash` • `C++` • `Linux` • `Docker` • `GCP` • `Nmap` • `Metasploit`
 
 ---
 
-### 📊 Tactical Data (Live Stats)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohsanRazaq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohsanRazaq&theme=tokyonight&hide_border=true&layout=compact" width="48%" />
+### 📊 Performance Metrics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohsanRazaq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0891b2&text_color=c9d1d9" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohsanRazaq&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0891b2&text_color=c9d1d9&layout=compact" width="300" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohsanRazaq&theme=tokyonight&hide_border=true" width="100%" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohsanRazaq&theme=tokyonight&hide_border=true&background=0D1117&ring=0891b2&fire=0891b2" width="700" />
 </p>
 
 ---
 
-### 🐍 Contribution Activity (The Snake)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MohsanRazaq/MohsanRazaq/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+### 🐍 Activity
+<p align="left">
+  <img src="https://raw.githubusercontent.com/MohsanRazaq/MohsanRazaq/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </p>
 
 ---
-
-### 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohsanRazaq&theme=tokyonight&area=true&hide_border=true" width="100%" />
-</p>
-
----
-
-### 📫 Secure Communication
-<p align="center">
-<a href="mailto:mohsansec@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/mohsan-razaq-0502623a3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
 <div align="center">
-  <sub>"To secure a system, you must first understand the logic that builds it."</sub>
+  <sub>"Automation is the key to scalable security."</sub>
 </div>
