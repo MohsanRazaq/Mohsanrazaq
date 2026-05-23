@@ -33,11 +33,6 @@
 ---
 
 ### 🐍 Activity
-<p align="left">
-  <img src="https://raw.githubusercontent.com/MohsanRazaq/MohsanRazaq/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-</p>
-
----
 <div align="center">
   <sub>"Automation is the key to scalable security."</sub>
 </div>
