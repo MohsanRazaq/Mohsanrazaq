@@ -8,7 +8,7 @@
 
 ---
 
-## 🧑‍💻 Technical Profile
+## Technical Profile
 
 * **Core Focus:** Cyber Security Student specializing in **Cloud Security**, **Security Automation**, and **Defensive Engineering**.
 * **Mission:** Building practical security tools that improve visibility, resilience, and security posture through automation.
@@ -16,7 +16,7 @@
 
 ---
 
-## 🎯 Current Objectives
+##  Current Objectives
 
 * Build CloudGuard into a production-quality cloud security portfolio project.
 * Master AWS Security Fundamentals (IAM, S3, VPC, CloudTrail).
@@ -34,7 +34,7 @@
 
 ### Cloud & Infrastructure
 
-`AWS` • `Docker` • `Linux (Ubuntu/Kali/Parrot)` • `Git`
+`AWS`  • `Linux (Ubuntu/Kali/Parrot)` • `Git`
 
 ### Security
 
@@ -46,7 +46,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### CloudGuard (Active Development)
 
@@ -107,7 +107,7 @@ Security log analysis and threat detection platform focused on identifying suspi
 
 ---
 
-## 💡 Philosophy
+##  Philosophy
 
 > Build → Break → Secure → Automate
 
@@ -115,7 +115,7 @@ Security expertise is developed through building systems, understanding failure 
 
 ---
 
-### 🔥 Current Mission
+### Current Mission
 
 **CloudGuard — 100 Days of Cloud Security Engineering**
 
