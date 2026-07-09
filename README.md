@@ -12,7 +12,7 @@
 
 * **Core Focus:** Cyber Security Student specializing in **Cloud Security**, **Security Automation**, and **Defensive Engineering**.
 * **Mission:** Building practical security tools that improve visibility, resilience, and security posture through automation.
-* **Current Sprint:** 100-Day Cloud Security Engineering Challenge focused on developing **CloudGuard**, strengthening AWS Security knowledge, Linux administration skills, and Python-based security automation.
+* **Current Sprint:** currently building Cloud Security Engineering Challenge focused on developing **CloudGuard**, strengthening AWS Security knowledge, Linux administration skills, and Python-based security automation.
 
 ---
 
@@ -94,18 +94,6 @@ Security log analysis and threat detection platform focused on identifying suspi
 
 ---
 
-## 📊 Performance Metrics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohsanRazaq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohsanRazaq&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" width="300" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohsanRazaq&theme=tokyonight&hide_border=true&background=0D1117" width="700" />
-</p>
-
----
 
 ##  Philosophy
 
@@ -117,6 +105,6 @@ Security expertise is developed through building systems, understanding failure 
 
 ### Current Mission
 
-**CloudGuard — 100 Days of Cloud Security Engineering**
+**CloudGuard — Cloud Security Engineering**
 
-Day 1/100 → In Progress
+ In Progress
