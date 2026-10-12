@@ -27,48 +27,6 @@ Currently seeking a **Cybersecurity / Cloud Security Internship** to gain practi
 
 ---
 
-## Achievements & Credentials
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 3.71
-CGPA
-
-</td>
-<td align="center" width="25%">
-
-### 100%
-Scholarship
-
-</td>
-<td align="center" width="25%">
-
-### Dean's Award
-Academic Achievement
-
-</td>
-<td align="center" width="25%">
-
-### 2
-Certifications
-
-</td>
-</tr>
-</table>
-
-</div>
-
-### Certifications & Training
-
-`Google Cybersecurity Professional Certificate`
-
-`Cisco — Introduction to Networks`
-
----
 
 ## Technical Skills
 
