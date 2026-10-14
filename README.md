@@ -1,197 +1,130 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:020617,20:071a2b,40:003b4d,60:005f73,80:007c91,100:00c2ff&text=MOHSAN%20RAZAQ&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=CYBER%20SECURITY%20%7C%20CLOUD%20SECURITY%20%7C%20SECURITY%20AUTOMATION&descAlignY=63&descSize=16&animation=twinkling" width="100%">
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:020617,20:071a2b,40:003b4d,60:005f73,80:007c91,100:00c2ff&text=MOHSAN%20RAZAQ&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=PYTHON%20SECURITY%20DEVELOPER%20%7C%20CLOUD%20AUTOMATION%20%7C%20DEVSECOPS&descAlignY=63&descSize=16" width="100%" alt="Mohsan Razaq Header Banner">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2400&pause=700&color=00C2FF&center=true&vCenter=true&width=900&lines=Cyber+Security+Student;Cloud+Security+%7C+Network+Security;Offensive+%2B+Defensive+Security;Security+Automation+%7C+Python;Linux+%7C+Networking+%7C+Security+Engineering" />
+### Python Security Developer | Cloud Security Automation | DevSecOps Trainee
+Lahore, Pakistan
 
-<br>
-
-<a href="https://www.linkedin.com/in/mohsan-razaq-0502623a3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-<a href="mailto:mohsansec@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-<img src="https://img.shields.io/badge/Lahore%2C%20Pakistan-0891b2?style=flat-square">
+<!-- Primary Actions / Links -->
+<a href="https://www.linkedin.com/in/mohsanrazaq" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+</a>
+<a href="https://mohsanrazaq.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website">
+</a>
+<a href="https://mohsanrazaq.github.io/Mohsanrazaq/Mohsan_Razaq_CV.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/View_Resume_PDF-00c2ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF">
+</a>
+<a href="https://medium.com/@MohsanRazaq" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Articles">
+</a>
+<a href="mailto:mohsansec@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact">
+</a>
 
 </div>
 
 ---
 
-## Technical Profile
+### Executive Profile Overview
 
-I'm a Cyber Security student building practical experience across **Cloud Security, Network Security, Offensive Security, Defensive Engineering, and Security Automation**.
-
-My primary direction is **Cyber Security**, with **Cloud Security Engineering** as my specialization.
-
-I work across AWS, Linux, networking, security assessment, detection, security tooling, and Python-based automation.
-
-Currently seeking a **Cybersecurity / Cloud Security Internship** to gain practical industry experience.
-
----
-
-
-## Technical Skills
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,python,bash,cpp,linux,ubuntu,kali,git,github,sqlite,fastapi&perline=11">
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2100&pause=600&color=00C2FF&center=true&vCenter=true&width=900&lines=AWS+%7C+IAM+%7C+S3+%7C+VPC+%7C+Network+ACLs;Python+%7C+boto3+%7C+Bash+%7C+C%2B%2B;Linux+%7C+Ubuntu+%7C+Kali+%7C+Parrot+OS;Nmap+%7C+Wireshark+%7C+Burp+Suite+%7C+Autopsy;Security+Assessment+%7C+Risk+Analysis+%7C+Security+Automation" />
-
-</div>
-
-### Cloud & Infrastructure
-
-`AWS` `IAM` `S3` `VPC` `Network ACLs` `Security Groups` `Internet Gateway`
-
-### Security
-
-`Cloud Security` `Network Security` `Offensive Security` `Defensive Engineering` `Security Assessment` `Risk Analysis` `Security Monitoring`
-
-### Programming & Automation
-
-`Python` `Bash` `C++` `boto3`
-
-### Systems & Networking
-
-`Linux` `Ubuntu` `Kali Linux` `Parrot OS` `TCP/IP` `Networking`
-
-### Security Tools
-
-`Nmap` `Wireshark` `Burp Suite` `Autopsy`
-
-### Development
-
-`Git` `GitHub` `SQLite` `FastAPI`
-
----
-
-## Featured Projects
-
-### CloudGuard
-
-**AWS Cloud Security Misconfiguration Detection & Risk Analysis Platform**
-
-A practical cloud security project focused on assessing AWS security controls, identifying misconfigurations, assigning risk, and producing remediation guidance.
-
-`IAM` · `S3` · `VPC` · `Network ACL Analysis`
-
-`44/44 tests passing` · `15/15 NACL tests passing`
-
-[View CloudGuard](https://github.com/MohsanRazaq/CloudGuard)
-
----
-
-### Zero Trust Ransomware Resilience System
-
-A defensive security project focused on detecting, responding to, and recovering from ransomware-style activity.
-
-`Real-Time Monitoring` · `Detection` · `Automated Response` · `Backup & Recovery` · `Security Logging`
-
-[View Project](https://github.com/MohsanRazaq/zero-trust-ransomware-resilience)
-
----
-
-## Security Focus
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=650&color=00C2FF&center=true&vCenter=true&width=900&lines=Cyber+Security+%7C+Cloud+%7C+Networks+%7C+Offensive+%7C+Defensive;Understanding+systems+from+attack+surface+to+security+control;Building+practical+security+tools+across+multiple+domains" />
-
-</div>
-
-<table align="center">
+<table>
 <tr>
-
 <td width="33%" valign="top">
 
-### CLOUD SECURITY
-
-AWS infrastructure, identity, storage, networking and cloud security assessment.
-
-`AWS` `IAM` `S3`  
-`VPC` `NACLs`  
-`Security Groups`
+#### EDUCATION
+**BS in Cyber Security (5th Semester)**  
+University of Management and Technology (UMT)
 
 </td>
-
 <td width="33%" valign="top">
 
-### NETWORK SECURITY
-
-Understanding network architecture, traffic, exposure and security controls.
-
-`Networking` `TCP/IP`  
-`Nmap` `Wireshark`  
-`Traffic Analysis`
+#### TARGET ROLES
+- Python Security Developer
+- Cloud Automation Engineer
+- DevSecOps Trainee / Intern
 
 </td>
-
 <td width="33%" valign="top">
 
-### OFFENSIVE SECURITY
-
-Studying attack surfaces and weaknesses to understand how systems can be compromised.
-
-`Burp Suite` `Nmap`  
-`Enumeration` `Assessment`  
-`Vulnerability Analysis`
+#### CORE TOOLSTACK
+`Python` `boto3` `FastAPI` `AWS IAM` `Git / GitHub` `Bash` `Linux`
 
 </td>
-
-</tr>
-
-<tr>
-
-<td width="33%" valign="top">
-
-### DEFENSIVE SECURITY
-
-Detection, response, hardening and resilience against security threats.
-
-`Detection` `Response`  
-`Hardening` `Resilience`  
-`Security Monitoring`
-
-</td>
-
-<td width="33%" valign="top">
-
-### SECURITY AUTOMATION
-
-Building practical tooling to make repeatable security work faster and more reliable.
-
-`Python` `boto3`  
-`Bash` `AWS APIs`  
-`Testing`
-
-</td>
-
-<td width="33%" valign="top">
-
-### SYSTEMS & FORENSICS
-
-Working with operating systems, security events and investigative security tooling.
-
-`Linux` `Ubuntu`  
-`Kali` `Parrot OS`  
-`Autopsy` `Log Analysis`
-
-</td>
-
 </tr>
 </table>
 
 ---
 
-## Engineering Approach
+## Professional Summary
+
+5th-semester Cybersecurity student and software-focused **Python Security Developer** specializing in building automated cloud assessment tools, security scripts, and API integrations. Experienced in utilizing `boto3` for programmatic AWS auditing, writing robust unit test suites, and implementing secure coding and process automation practices.
+
+- **Focus Areas:** Python Security Tooling, AWS Cloud Automation (`boto3`), API Integrations, and DevSecOps Pipelines.
+- **Engineering Work:** Developed automated AWS misconfiguration scanners and host containment scripts backed by automated unit test frameworks.
+- **Continuous Learning:** Combining software engineering principles with defensive security challenges and technical documentation.
+
+---
+
+## Technical Skills & Tooling
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Programming & Scripting** | `Python` `boto3` `FastAPI` `REST APIs` `Bash Shell` `C++` `SQLite` |
+| **Cloud & Infrastructure** | `AWS IAM` `Amazon S3 Security` `AWS VPC Architecture` `Security Groups` `Network ACLs` |
+| **DevOps & Tooling** | `Git` `GitHub Actions` `CI/CD Pipelines` `Automated Unit Testing` `Linux (Ubuntu)` |
+| **Security Assessment** | `Nmap` `Wireshark` `Burp Suite` `Vulnerability Scanning` `Log Telemetry` |
+
+---
+
+## Key Software & Security Projects
+
+### CloudGuard — Automated AWS Security & Risk Assessment Tool
+**Repository:** [github.com/MohsanRazaq/CloudGuard](https://github.com/MohsanRazaq/CloudGuard)
+
+An automated Cloud Security Posture Management (CSPM) application engineered in Python to programmatically parse and evaluate AWS infrastructure configurations against security baselines.
+
+- **Programmatic Auditing:** Utilizes `boto3` to extract and evaluate IAM privilege escalation vectors (`iam:PassRole`), S3 bucket policies, and VPC Network ACL matrices.
+- **Software Reliability:** Built with rigorous automated unit test frameworks (**44/44 core security tests passing**, **15/15 NACL boundary tests passing**).
+- **Tech Stack:** `Python` · `boto3` · `AWS IAM` · `AWS VPC` · `Unit Testing`
+
+<br>
+
+### Zero Trust Ransomware Resilience System — Host Automation Script
+**Repository:** [github.com/MohsanRazaq/zero-trust-ransomware-resilience](https://github.com/MohsanRazaq/zero-trust-ransomware-resilience)
+
+A modular Python script designed to monitor system file events, trigger rule-based process quarantine, and manage encrypted backup preservation.
+
+- **Automation & Telemetry:** Real-time event logging paired with scripted process isolation to prevent unauthorized file encryption.
+- **Tech Stack:** `Python` · `Linux Systems` · `Automation Scripting` · `System Logs`
+
+---
+
+## Technical Platforms & Writing
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=1700&pause=600&color=00C2FF&center=true&vCenter=true&width=850&lines=Understand+the+system.;Map+the+attack+surface.;Test+the+security+control.;Find+the+weakness.;Engineer+the+defense.;Automate+what+repeats." />
-
-<br><br>
-
-`UNDERSTAND` → `ASSESS` → `TEST` → `SECURE` → `AUTOMATE`
+<a href="https://tryhackme.com/p/MohsanRazaq" target="_blank">
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile">
+</a>
+<a href="https://app.hackthebox.com/profile/overview" target="_blank">
+  <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox Profile">
+</a>
 
 </div>
+
+<br>
+
+- **Technical Articles:** [medium.com/@MohsanRazaq](https://medium.com/@MohsanRazaq)  
+  Python programming guides, AWS automation walkthroughs, and secure coding practices.
+
+---
+
+## Contact & Opportunities
+
+**Open To:** Python Security Developer Roles, Cloud Automation Internships, and DevSecOps Trainee Positions (Backed by official UMT placement documentation).
+
+- **Email:** [mohsansec@gmail.com](mailto:mohsansec@gmail.com)
+- **LinkedIn:** [linkedin.com/in/mohsanrazaq](https://www.linkedin.com/in/mohsanrazaq)
+- **Portfolio:** [mohsanrazaq.vercel.app](https://mohsanrazaq.vercel.app/)
