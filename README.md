@@ -105,9 +105,6 @@ A modular Python script designed to monitor system file events, trigger rule-bas
 
 <div align="center">
 
-<a href="https://tryhackme.com/p/MohsanRazaq" target="_blank">
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile">
-</a>
 <a href="https://app.hackthebox.com/profile/overview" target="_blank">
   <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox Profile">
 </a>
